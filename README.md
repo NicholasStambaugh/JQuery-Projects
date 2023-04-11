@@ -24,4 +24,4 @@ To use and implement this code, follow these steps:
 
 # See it in action
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/NicholasStambaugh/JS-Number-Count-Up/blob/main/ezgif-1-31e436de9c.gif)
