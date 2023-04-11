@@ -21,3 +21,7 @@ To use and implement this code, follow these steps:
 6. If you need to customize the appearance or behavior of the counter animation, you can modify the code to suit your needs. Refer to the comments in the code for guidance on how to make changes.
 
 7. Finally, test your implementation thoroughly to ensure that the counters are animating correctly and that there are no errors or issues with the code.
+
+# See it in action
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
