@@ -13,7 +13,6 @@ To use and implement this code, follow these steps:
     <span class="counter-value" data-to="100">0</span>
     <p class="counter-label">Happy Customers</p>
 </div>
-
 ```
 4. The code will automatically initialize the counter animation when the page loads. As the user scrolls down the page, the counters will animate into view and count up to their target values.
 
