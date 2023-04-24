@@ -96,4 +96,4 @@ This is a simple web application that allows you to create a list of tasks or to
 
 ### See it in action
 
-![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/ezgif-4-7e6dfbd017.gif)
+![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/todogif.gif)
