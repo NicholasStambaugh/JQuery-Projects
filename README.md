@@ -2,7 +2,7 @@
 
 ## A JavaScript number counter
 
-To use and implement this code, follow these steps:
+### To use and implement this code, follow these steps:
 
 1. Include the required dependencies: jQuery, Bootstrap, and countTo.js.
 
@@ -24,6 +24,36 @@ To use and implement this code, follow these steps:
 
 7. Finally, test your implementation thoroughly to ensure that the counters are animating correctly and that there are no errors or issues with the code.
 
-# See it in action
+### See it in action
+
+![](https://github.com/NicholasStambaugh/JS-Number-Count-Up/blob/main/ezgif-1-31e436de9c.gif)
+
+# Project #2: JQuery Redirect within selectpicker
+
+This jQuery code allows you to redirect the user to a specific URL when they select a particular option from a select element. The code listens for a change event on the select element and reads the value of the selected option. If the option has a value attribute, the code redirects the browser to the specified URL.
+
+### To use and implement this code, follow these steps:
+
+1. Ensure that you have included the jQuery library in your HTML file.
+
+2. Copy and paste the code into your script.js file, or into a separate JavaScript file if you prefer.
+
+3. Add a select element to your HTML file and give it a class of "selectpicker". For example:
+
+```
+<select class="selectpicker">
+  <option value="index.html">Employer Branding</option>
+  <option>Retention</option>
+  <option>Sourcing and Recruiting</option>
+</select>
+
+```
+4. If you want the "Employer Branding" option to redirect to "index.html", add a value attribute to the option tag with the value "index.html".
+
+5. The code will automatically initialize the change event listener when the page loads. When the user selects an option, the code will read the value of the option and redirect the browser to the specified URL.
+
+6. Test your implementation thoroughly to ensure that the select element is working correctly and that there are no errors or issues with the code.
+
+### See it in action
 
 ![](https://github.com/NicholasStambaugh/JS-Number-Count-Up/blob/main/ezgif-1-31e436de9c.gif)
