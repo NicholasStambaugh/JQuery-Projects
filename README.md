@@ -1,3 +1,6 @@
+# Goals
+This repository contains code examples and instructions on how to implement JQuery into a web page. The goal of the repository is to learn jQuery by doing hands-on exercises that are easy to follow and understand.
+
 # Project #1: JQuery Count-Up
 
 ## A JavaScript number counter
