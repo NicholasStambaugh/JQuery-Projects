@@ -59,3 +59,41 @@ This jQuery code allows you to redirect the user to a specific URL when they sel
 ### See it in action
 
 ![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/ezgif-4-7e6dfbd017.gif)
+
+# Project #3: JQuery ToDo List
+
+This is a simple web application that allows you to create a list of tasks or to-do items. The app is built using HTML, CSS, and jQuery, and is designed to be simple and easy to use.
+
+### To use and implement this code, follow these steps:
+
+1. Ensure that you have included the jQuery library in your HTML file. This can be done by adding the following script tag in the head section of your HTML file:
+
+```
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+```
+
+2. Copy and paste the code into your script.js file, or into a separate JavaScript file if you prefer.
+
+3. Add an unordered list element to your HTML file and give it an id of "item-list". For example:
+
+```
+<ul id="item-list"></ul>
+```
+4. Add a form element to your HTML file with an input field for the task and a date field for the due date. Give the form an id of "add-form". For example:
+
+```
+<form id="add-form">
+  <input type="text" id="new-item" placeholder="Add new item">
+  <input type="date" id="new-item-date">
+  <button type="submit">Add</button>
+</form>
+
+```
+
+5. The code will automatically initialize the submit event listener when the page loads. When the user submits the form, the code will read the values of the input fields and add a new item to the todo list with a due date.
+
+6. Test your implementation thoroughly to ensure that the todo list is working correctly and that there are no errors or issues with the code.
+
+### See it in action
+
+![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/ezgif-4-7e6dfbd017.gif)
