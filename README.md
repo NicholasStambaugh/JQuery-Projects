@@ -49,7 +49,6 @@ This jQuery code allows you to redirect the user to a specific URL when they sel
   <option>Retention</option>
   <option>Sourcing and Recruiting</option>
 </select>
-
 ```
 4. If you want the "Employer Branding" option to redirect to "index.html", add a value attribute to the option tag with the value "index.html".
 
