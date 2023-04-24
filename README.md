@@ -1,4 +1,6 @@
-# A JavaScript number counter
+# Project #1: JQuery Count-Up
+
+## A JavaScript number counter
 
 To use and implement this code, follow these steps:
 
