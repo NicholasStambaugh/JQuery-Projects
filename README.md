@@ -26,7 +26,7 @@
 
 ### See it in action
 
-![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/ezgif-4-7e6dfbd017.gif))
+![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/ezgif-1-31e436de9c.gif)
 
 # Project #2: JQuery Redirect within selectpicker
 
@@ -56,4 +56,4 @@ This jQuery code allows you to redirect the user to a specific URL when they sel
 
 ### See it in action
 
-![](https://github.com/NicholasStambaugh/JS-Number-Count-Up/blob/main/ezgif-1-31e436de9c.gif)
+![](https://github.com/NicholasStambaugh/JQuery-Projects/blob/main/ezgif-4-7e6dfbd017.gif)
